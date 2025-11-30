@@ -97,7 +97,7 @@ This script for sniff  target info login  application that performs a Man in the
 
 ### script image
 
-<img src="./slva0.png" alt="ig">
+<img src="./slv0.png" alt="ig">
 ## Social media
 
 ```
